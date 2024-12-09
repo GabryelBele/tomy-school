@@ -8,6 +8,12 @@ const GlobalStyled = styled.div`
     }
     
     body {
+        font-family: 'Roboto', sans-serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
         color: #FFFFFF;
     }`;
 
